@@ -1,4 +1,4 @@
-### Olá! Eu sou Gabriel Justino 👋
+# Olá! Eu sou Gabriel Justino
 
 🔹 **Sobre mim**  
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Segurança da Informação**, apaixonado por tecnologia e inovação. Atualmente, estou focado no desenvolvimento de aplicações web usando **React**, bem como na criação de projetos para minha marca de roupas, *Biex Ever You*.  

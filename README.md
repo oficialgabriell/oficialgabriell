@@ -1,16 +1,17 @@
-## Hi there 👋
+### Olá! Eu sou Gabriel Justino 👋
 
-<!--
-**oficialgabriell/oficialgabriell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Sobre mim**  
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Segurança da Informação**, apaixonado por tecnologia e inovação. Atualmente, estou focado no desenvolvimento de aplicações web usando **React**, bem como na criação de projetos para minha marca de roupas, *Biex Ever You*.  
 
-Here are some ideas to get you started:
+💻 **Habilidades**  
+- Linguagens: `Python`, `JavaScript`
+- Desenvolvimento Web: `React`, `HTML`, `CSS`
+- Automação: Criação de scripts para WhatsApp e integração com planilhas
+- Segurança da Informação: Práticas de proteção e auditoria digital  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 **Projetos em destaque**  
+- **[Automação WhatsApp](link_para_o_repositório)**: Script em Python que automatiza envio de mensagens baseado em planilhas.
+- **[Biex Ever You Website](link_para_o_repositório)**: Loja online desenvolvida com React para minha marca.  
+
+📫 **Contato**  
+[LinkedIn](linkedin.com/in/gabriel-justino-388566194/) | [Instagram](https://www.instagram.com/_eubiell) | [E-mail](profissgabriell@gmail.com)

@@ -11,7 +11,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Segurança da In
 
 📂 **Projetos em destaque**  
 - **[Automação WhatsApp](link_para_o_repositório)**: Script em Python que automatiza envio de mensagens baseado em planilhas.
-- **[Biex Ever You Website](link_para_o_repositório)**: Loja online desenvolvida com React para minha marca.  
+- **[Biex Ever You Website](link_para_o_repositório)**: Loja online desenvolvida com React para minha marca.
+- **[EasyTime](https://github.com/oficialgabriell/EasyTime)**: Projeto de sistema web de resgistro de ponto eletrônico.
 
 📫 **Contato**  
 [LinkedIn](linkedin.com/in/gabriel-justino-388566194/) | [Instagram](https://www.instagram.com/_eubiell) | [E-mail](profissgabriell@gmail.com)

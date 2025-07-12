@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/oficialgabriell/github-profile-assets/blob/main/Banner%20github.png" alt="Banner Gabriel" width="900"/>
+</p>
+
+
 # 👋 Olá! Eu sou o Gabriel
 
 Sou Analista de BackOffice em transição para a área de desenvolvimento, com foco em tecnologias web. Estudo **Node.js, React, MySQL e arquitetura de sistemas**, buscando construir aplicações robustas, escaláveis e bem documentadas.

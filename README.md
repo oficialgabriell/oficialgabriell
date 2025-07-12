@@ -20,8 +20,8 @@ Minha jornada é prática: estou desenvolvendo projetos autorais e mergulhando n
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [nome-do-repo](https://github.com/oficialgabriell/nome-do-repo) | Sistema PDV completo com front-end React e backend Node.js, incluindo autenticação, relatórios e integração com banco de dados | React, Node.js, MySQL |
-| [outro-projeto](https://github.com/oficialgabriell/outro-projeto) | Ferramenta CLI para automatizar tarefas de back-office | Node.js, Shell Script |
+| [EasyTime](https://github.com/oficialgabriell/EasyTime) | Sietema de regístro de ponto eletronico voltado para pequenas e médias empresas | React.js, Node.js, MySQL |
+| [Biex-Ever-Store](https://github.com/oficialgabriell/BieX-Ever-Store) | e-Comerce voltada para o ramo de vestuários | React.js, Node.js, MySQL |
 
 _(Atualizarei este espaço à medida que os projetos evoluírem.)_
 
@@ -30,7 +30,7 @@ _(Atualizarei este espaço à medida que os projetos evoluírem.)_
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
-📧 gabriel@email.com *(substitua por seu e-mail real)*
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:profissgabriell@email.com)
 
 ---
 
